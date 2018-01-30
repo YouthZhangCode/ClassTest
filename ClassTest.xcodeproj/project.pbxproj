@@ -13,6 +13,7 @@
 		04E405081F92450C00BE30DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E405071F92450C00BE30DA /* Assets.xcassets */; };
 		04E4050B1F92450C00BE30DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E405091F92450C00BE30DA /* LaunchScreen.storyboard */; };
 		04E405151F92454A00BE30DA /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E405141F92454A00BE30DA /* Person.swift */; };
+		06D4D20A20206133008EFE22 /* PersonalMV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D4D20920206133008EFE22 /* PersonalMV.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04E4050A1F92450C00BE30DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E4050C1F92450C00BE30DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E405141F92454A00BE30DA /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		06D4D20920206133008EFE22 /* PersonalMV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalMV.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				04E405001F92450C00BE30DA /* AppDelegate.swift */,
 				04E405021F92450C00BE30DA /* ViewController.swift */,
 				04E405141F92454A00BE30DA /* Person.swift */,
+				06D4D20920206133008EFE22 /* PersonalMV.swift */,
 				04E405041F92450C00BE30DA /* Main.storyboard */,
 				04E405071F92450C00BE30DA /* Assets.xcassets */,
 				04E405091F92450C00BE30DA /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				04E405031F92450C00BE30DA /* ViewController.swift in Sources */,
 				04E405151F92454A00BE30DA /* Person.swift in Sources */,
+				06D4D20A20206133008EFE22 /* PersonalMV.swift in Sources */,
 				04E405011F92450C00BE30DA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				04E405111F92450C00BE30DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
