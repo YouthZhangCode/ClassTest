@@ -11,6 +11,8 @@ import Foundation
 class Student {
     var name: String
     var grade: String
+    var commit1: String?
+    
     
     init(name: String, grade: String) {
         self.name = name
