@@ -12,6 +12,7 @@ class Student {
     var name: String
     var grade: String
     var commit1: String?
+    var commit2: String?
     var push1: String?
     
     init(name: String, grade: String) {
