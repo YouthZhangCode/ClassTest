@@ -16,6 +16,8 @@ class Student {
     var push1: String?
     var personalMV: String?
     
+    var masterChange1: String?
+    
     init(name: String, grade: String) {
         self.name = name
         self.grade = grade
