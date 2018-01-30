@@ -14,6 +14,7 @@ class Student {
     var commit1: String?
     var commit2: String?
     var push1: String?
+    var personalMV: String?
     
     init(name: String, grade: String) {
         self.name = name
