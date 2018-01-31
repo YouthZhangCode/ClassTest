@@ -15,6 +15,7 @@
 		04E405151F92454A00BE30DA /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E405141F92454A00BE30DA /* Person.swift */; };
 		068D1FE120208055007F1758 /* AddGitignore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D1FE020208055007F1758 /* AddGitignore.swift */; };
 		069B294420215E9000D09EBE /* ClassOneAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B294320215E9000D09EBE /* ClassOneAdd.swift */; };
+		069B29462021602500D09EBE /* ClassOneAdd1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069B29452021602500D09EBE /* ClassOneAdd1.swift */; };
 		06D4D20A20206133008EFE22 /* PersonalMV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D4D20920206133008EFE22 /* PersonalMV.swift */; };
 		E90FC4AE20216086001846AE /* Airfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90FC4AD20216086001846AE /* Airfile.swift */; };
 		E90FC4B0202161E7001846AE /* AirfileOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90FC4AF202161E7001846AE /* AirfileOne.swift */; };
@@ -31,6 +32,7 @@
 		04E405141F92454A00BE30DA /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		068D1FE020208055007F1758 /* AddGitignore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddGitignore.swift; sourceTree = "<group>"; };
 		069B294320215E9000D09EBE /* ClassOneAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassOneAdd.swift; sourceTree = "<group>"; };
+		069B29452021602500D09EBE /* ClassOneAdd1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassOneAdd1.swift; sourceTree = "<group>"; };
 		06D4D20920206133008EFE22 /* PersonalMV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalMV.swift; sourceTree = "<group>"; };
 		E90FC4AD20216086001846AE /* Airfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Airfile.swift; sourceTree = "<group>"; };
 		E90FC4AF202161E7001846AE /* AirfileOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirfileOne.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				069B294320215E9000D09EBE /* ClassOneAdd.swift */,
 				E90FC4AD20216086001846AE /* Airfile.swift */,
 				E90FC4AF202161E7001846AE /* AirfileOne.swift */,
+				069B29452021602500D09EBE /* ClassOneAdd1.swift */,
 				04E405041F92450C00BE30DA /* Main.storyboard */,
 				04E405071F92450C00BE30DA /* Assets.xcassets */,
 				04E405091F92450C00BE30DA /* LaunchScreen.storyboard */,
@@ -159,6 +162,7 @@
 				069B294420215E9000D09EBE /* ClassOneAdd.swift in Sources */,
 				06D4D20A20206133008EFE22 /* PersonalMV.swift in Sources */,
 				068D1FE120208055007F1758 /* AddGitignore.swift in Sources */,
+				069B29462021602500D09EBE /* ClassOneAdd1.swift in Sources */,
 				E90FC4AE20216086001846AE /* Airfile.swift in Sources */,
 				04E405011F92450C00BE30DA /* AppDelegate.swift in Sources */,
 			);
